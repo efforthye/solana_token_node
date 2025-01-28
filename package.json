@@ -1,0 +1,33 @@
+{
+  "name": "solana_token_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node --experimental-specifier-resolution=node dist/test-create-nft.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.12.0",
+    "@types/winston": "^2.4.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.98.0",
+    "@web3-storage/w3up-client": "^17.1.2",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.7",
+    "files-from-path": "^1.1.1",
+    "ipfs-http-client": "^50.1.2",
+    "nft.storage": "^7.2.0",
+    "node-fetch": "^3.3.2",
+    "winston": "^3.17.0"
+  }
+}
