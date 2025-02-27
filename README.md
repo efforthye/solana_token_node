@@ -1,7 +1,3 @@
-- Test NFT 생성 완료: https://explorer.solana.com/address/BHaBZZeFyhd3H8oUQkGQ7D61GGQjYayHJRLkbX3R6kni?cluster=devnet
-
-
-
 # 솔라나 뉴스 플랫폼 아이디어
 
 ## 개요
@@ -72,4 +68,11 @@
 - 알림 시스템
 - 안정적인 솔라나 컨트랙트 구현
 
+
+
+
+
+
+--
+- Test NFT 생성 완료: https://explorer.solana.com/address/BHaBZZeFyhd3H8oUQkGQ7D61GGQjYayHJRLkbX3R6kni?cluster=devnet
 
