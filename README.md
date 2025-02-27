@@ -165,4 +165,3 @@ Solana로 News Coin 이라는걸 구매해서 SolanaNewsCoin으로  (SNC) -> 굳
 ---
 - Test NFT 생성 완료: https://explorer.solana.com/address/BHaBZZeFyhd3H8oUQkGQ7D61GGQjYayHJRLkbX3R6kni?cluster=devnet
 
-```
